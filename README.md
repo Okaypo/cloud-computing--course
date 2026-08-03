@@ -31,7 +31,7 @@ cloud-computing-course/
 
 ├── reflections/
 
-└── README.md
+├── README.md
 
 ## 📖 Key Concepts Covered
 
