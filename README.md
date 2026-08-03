@@ -22,6 +22,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 cloud-computing-course/
 
+
 ├── activities/
 
 ├── projects/
